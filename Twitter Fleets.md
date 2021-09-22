@@ -1,4 +1,4 @@
-<h5><b>Twiiter</b> is planning on closing down it's Fleets feature, what are the reasons as to why the company decided to do so? </h5>
+<h1><b>Twiiter</b> is planning on closing down it's Fleets feature, what are the reasons as to why the company decided to do so? </h1>
 
 <b>Twitter</b> is a social media company that allows users to post tweets (This can be textual, images, audio, or video). This is a platform that is commonly used to bring about information dissemination instantly when you want to reach large crowds. <br> 
 
