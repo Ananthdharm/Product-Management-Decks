@@ -12,7 +12,7 @@ When we think of the users of Twitter as a product, we can segment these users i
 <li>Advertisers use Twitter to post their ads on Twitter in the hope of acquiring new users for the product they are advertising.<br></li>
 
 <li>Political representatives/diplomats make use of Twitter to disseminate important announcements, news about the party that they represent or try to gain traction by showcasing the work they have done.<br></li>
-
+<br>
 When we look at the competitors of Twitter:<br>
 1. Facebook<br>
 2. Pinterest<br>
