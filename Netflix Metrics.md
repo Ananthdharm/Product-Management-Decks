@@ -1,6 +1,6 @@
 <h1>Top Metrics to keep a track of for Netflix as a company</h1>
 
-<b>Netflix<b> is a company that provides asynchronous videos in the form of videos, movies, TV shows and interactive shows as well. In terms of the breadth of its services, they offer streaming options on TVs, Web application and mobile devices as well. As a company in the video streaming space, the major competitors are Amazon Prime Video, Disney+ and Hulu. They go by the tagline "See what's next".<br>
+<b>Netflix</b> is a company that provides asynchronous videos in the form of videos, movies, TV shows and interactive shows as well. In terms of the breadth of its services, they offer streaming options on TVs, Web application and mobile devices as well. As a company in the video streaming space, the major competitors are Amazon Prime Video, Disney+ and Hulu. They go by the tagline "See what's next".<br>
 <br>
 The pricing plans of Netflix are really attractive and competitive to other platforms as well.<br>
 When we look at the plans, some plans are inexpensive yet, they limit streaming to one device, while other plans are present which provide multiple streaming devices with multiple profiles for the same account.<br>
