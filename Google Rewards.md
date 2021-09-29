@@ -15,13 +15,13 @@ The initiative behind the app was brilliant as this was one of the channels to c
 While Google Rewards seems relevant, there are a few pros and cons for the same.<br>
 
 <b>Pros:</b><br>
-1. Simple UI: Very easy to understand and complete the survey in a short duration<br>
-2. Monetization factor: Users who complete the survey are credited an amount unique to how they would fill the survey<br>
+1. <i>Simple UI:</i> Very easy to understand and complete the survey in a short duration<br>
+2. <i>Monetization factor:</i> Users who complete the survey are credited an amount unique to how they would fill the survey<br>
 
 <b>Cons:</b><br>
-1. Bad frequency of surveys: The surveys are sent to users randomly during a month, it can vary from 2 times to about 4 times per month. Due to this, retention is really low, as a lot of users who don't get notifications about this will not check the app for the same<br>
-2. Amount is credited to Google Play only: As the amount credited upon completion goes to the Google Play wallet, it cannot be used outside of the Gsuite apps. As a result, users are reluctant to use the same until the accumulate the amount by a very large extent then use the same<br>
-3. Amount credited depends on the users inputs:  Surveys given on the app would pay users depending on how honest they gave their opinions. There is no factor/attribute deciding how a user should be paid and how much does the user get upon answering the questions<br>
+1. <i>Bad frequency of surveys:</i> The surveys are sent to users randomly during a month, it can vary from 2 times to about 4 times per month. Due to this, retention is really low, as a lot of users who don't get notifications about this will not check the app for the same<br>
+2. <i>Amount is credited to Google Play only:</i> As the amount credited upon completion goes to the Google Play wallet, it cannot be used outside of the Gsuite apps. As a result, users are reluctant to use the same until the accumulate the amount by a very large extent then use the same<br>
+3. <i>Amount credited depends on the users inputs:</i>  Surveys given on the app would pay users depending on how honest they gave their opinions. There is no factor/attribute deciding how a user should be paid and how much does the user get upon answering the questions<br>
 
 In view of the above pros and cons, Google Rewards has not been game-changing yet there is a lot of scope for improvement. <br>
 
