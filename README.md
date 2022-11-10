@@ -1,6 +1,7 @@
 # Product-Management-Decks
-This repository contains all the decks created for PM Challenges and my thoughts about some Companies as well. Happy Reading :)
+This repository contains all the decks created for PM Challenges and my thoughts about some Companies/Technlogies as well. Happy Reading :)
 
+<li><b>A brief about Java</b> - <i>A quick brief about Java as a technology</i></li><br>
 <li><b>Analysis of Instagram</b> - <i>A quick brief about Instagram</i></li><br>
 <li><b>Analysis of WhatsApp</b> - <i>A quick brief about WhatsApp</i></li><br>
 <li><b>Google and it's future</b> - <i>My thoughts on the way ahead for Google as a company</i></li><br>
