@@ -1,6 +1,7 @@
 # Product-Management-Decks
 This repository contains all the decks created for PM Challenges and my thoughts about some Companies/Technlogies as well. Happy Reading :)
 
+<li><b>Medium (PM School Challenge)</b> - <i>Increasing reading time per user on the app</i></li><br>
 <li><b>Technical Seminar on 5G</b> - <i>Final year technical seminar on 5G and it's applications in the current world and in the upcoming years</i></li><br>
 <li><b>A brief about Java</b> - <i>A quick brief about Java as a technology including its pros and cons</i></li><br>
 <li><b>Analysis of Instagram</b> - <i>A quick brief about Instagram</i></li><br>
