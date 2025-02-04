@@ -1,7 +1,7 @@
 # Product-Management-Decks
 This repository contains all the decks created for PM Challenges. Happy Reading :)
-<li><b>Primates - Animal Health Hackathon, tackling Stereotypy behaviors in Primates</b></li><br>
-<li><b>Hireflow - Talent 2.0 Hackathon, tackling recruiting challenges within Johnson&Johnson</b></li><br>
+<li><b>Primates </b>- Animal Health Hackathon, tackling Stereotypy behaviors in Primates</li><br>
+<li><b>Hireflow </b>- Talent 2.0 Hackathon, tackling recruiting challenges within Johnson&Johnson</li><br>
 <li><b>Medium (PM School Challenge)</b> - <i>Increasing reading time per user on the app (Secured <b>5th</b> place out of <b>33</b> entries)</i></li><br>
 <li><b>Technical Seminar on 5G</b> - <i>Final year technical seminar on 5G and its applications in the current world and the upcoming years</i></li><br>
 <li><b>A brief about Java</b> - <i>A quick brief about Java as a technology including its pros and cons</i></li><br>
