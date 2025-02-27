@@ -1,5 +1,6 @@
 # Product-Management-Decks
 This repository contains all the decks created for PM Challenges. Happy Reading :)
+<li><b>Humane AI Pin </b>- What went wrong with the Humane AI pin?</li><br>
 <li><b>Primates </b>- Animal Health Hackathon, tackling Stereotypy behaviors in Primates</li><br>
 <li><b>Hireflow </b>- Talent 2.0 Hackathon, tackling recruiting challenges within Johnson&Johnson</li><br>
 <li><b>Medium (PM School Challenge)</b> - <i>Increasing reading time per user on the app (Secured <b>5th</b> place out of <b>33</b> entries)</i></li><br>
